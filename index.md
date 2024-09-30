@@ -98,36 +98,37 @@ Below are a few audios samples from the target speaker.
 <tr class="odd">
 <td>1</td>
 <td><audio controls>
-				<source src="audios\clean\acous\0.wav" type="audio/mpeg">
+				<source src="audios\clean\acous\2.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\clean\crepe\0.wav" type="audio/mpeg">
+				<source src="audios\clean\crepe\2.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\clean\separated\0.wav" type="audio/mpeg">
+				<source src="audios\clean\separated\2.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\clean\separated_crepe\0.wav" type="audio/mpeg">
+				<source src="audios\clean\separated_crepe\2.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\clean\proposed\0.wav" type="audio/mpeg">
+				<source src="audios\clean\proposed\2.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 </tr>
 <tr class="even">
 <td colspan="6">Source 1&emsp;transcript :
-<em><strong>"这就是我心里的歌"</strong></em> &emsp;&emsp;&emsp;&emsp;
+<em><strong>"Baby baby baby baby baby baby 是不是拥有以后"</strong></em> &emsp;&emsp;&emsp;&emsp;
 wav:&emsp;
 <audio controls>
-				<source src="audios\clean\source\0.wav" type="audio/mpeg">
+				<source src="audios\clean\source\2.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio>
 </td>
 </tr>
+
 
 <tr class="odd">
 <td>2</td>
@@ -165,42 +166,42 @@ wav:&emsp;
 
 
 <tr class="odd">
-<td>3</td>
+<!-- <td>3</td>
 <td><audio controls>
-				<source src="audios\clean\acous\2.wav" type="audio/mpeg">
+				<source src="audios\clean\acous\0.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\clean\crepe\2.wav" type="audio/mpeg">
+				<source src="audios\clean\crepe\0.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\clean\separated\2.wav" type="audio/mpeg">
+				<source src="audios\clean\separated\0.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\clean\separated_crepe\2.wav" type="audio/mpeg">
+				<source src="audios\clean\separated_crepe\0.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\clean\proposed\2.wav" type="audio/mpeg">
+				<source src="audios\clean\proposed\0.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 </tr>
 <tr class="even">
 <td colspan="6">Source 3&emsp;transcript :
-<em><strong>"Baby baby baby baby baby baby 是不是拥有以后"</strong></em> &emsp;&emsp;&emsp;&emsp;
+<em><strong>"这就是我心里的歌"</strong></em> &emsp;&emsp;&emsp;&emsp;
 wav:&emsp;
 <audio controls>
-				<source src="audios\clean\source\2.wav" type="audio/mpeg">
+				<source src="audios\clean\source\0.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio>
 </td>
-</tr>
+</tr> -->
 
 
 <tr class="odd">
-<td>4</td>
+<td>3</td>
 <td><audio controls>
 				<source src="audios\clean\acous\3.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
@@ -223,7 +224,7 @@ wav:&emsp;
 			</audio></td>
 </tr>
 <tr class="even">
-<td colspan="6">Source 4&emsp;transcript :
+<td colspan="6">Source 3&emsp;transcript :
 <em><strong>"没有原因的拘留"</strong></em> &emsp;&emsp;&emsp;&emsp;
 wav:&emsp;
 <audio controls>
@@ -265,32 +266,32 @@ wav:&emsp;
 <tr class="odd">
 <td>1</td>
 <td><audio controls>
-				<source src="audios\noisy\acous\3.wav" type="audio/mpeg">
+				<source src="audios\noisy\acous\6.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\noisy\crepe\3.wav" type="audio/mpeg">
+				<source src="audios\noisy\crepe\6.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\noisy\separated\3.wav" type="audio/mpeg">
+				<source src="audios\noisy\separated\6.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\noisy\separated_crepe\3.wav" type="audio/mpeg">
+				<source src="audios\noisy\separated_crepe\6.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\noisy\proposed\3.wav" type="audio/mpeg">
+				<source src="audios\noisy\proposed\6.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 </tr>
 <tr class="even">
 <td colspan="6">Source 1&emsp;transcript :
-<em><strong>"纵容着 任性的 随意的 放肆的"</strong></em> &emsp;&emsp;&emsp;&emsp;
+<em><strong>"活在我飞扬的青(春)"</strong></em> &emsp;&emsp;&emsp;&emsp;
 wav:&emsp;
 <audio controls>
-				<source src="audios\noisy\source\3.wav" type="audio/mpeg">
+				<source src="audios\noisy\source\6.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio>
 </td>
@@ -300,36 +301,37 @@ wav:&emsp;
 <tr class="odd">
 <td>2</td>
 <td><audio controls>
-				<source src="audios\noisy\acous\1.wav" type="audio/mpeg">
+				<source src="audios\noisy\acous\5.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\noisy\crepe\1.wav" type="audio/mpeg">
+				<source src="audios\noisy\crepe\5.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\noisy\separated\1.wav" type="audio/mpeg">
+				<source src="audios\noisy\separated\5.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\noisy\separated_crepe\1.wav" type="audio/mpeg">
+				<source src="audios\noisy\separated_crepe\5.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\noisy\proposed\1.wav" type="audio/mpeg">
+				<source src="audios\noisy\proposed\5.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 </tr>
 <tr class="even">
 <td colspan="6">Source 2&emsp;transcript :
-<em><strong>"Take a sad song and make it better"</strong></em> &emsp;&emsp;&emsp;&emsp;
+<em><strong>"给你的爱一直很安静"</strong></em> &emsp;&emsp;&emsp;&emsp;
 wav:&emsp;
 <audio controls>
-				<source src="audios\noisy\source\1.wav" type="audio/mpeg">
+				<source src="audios\noisy\source\5.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio>
 </td>
 </tr>
+
 
 <tr class="odd">
 <td>3</td>
@@ -402,32 +404,32 @@ wav:&emsp;
 <tr class="odd">
 <td>5</td>
 <td><audio controls>
-				<source src="audios\noisy\acous\5.wav" type="audio/mpeg">
+				<source src="audios\noisy\acous\1.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\noisy\crepe\5.wav" type="audio/mpeg">
+				<source src="audios\noisy\crepe\1.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\noisy\separated\5.wav" type="audio/mpeg">
+				<source src="audios\noisy\separated\1.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\noisy\separated_crepe\5.wav" type="audio/mpeg">
+				<source src="audios\noisy\separated_crepe\1.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\noisy\proposed\5.wav" type="audio/mpeg">
+				<source src="audios\noisy\proposed\1.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 </tr>
 <tr class="even">
 <td colspan="6">Source 5&emsp;transcript :
-<em><strong>"给你的爱一直很安静"</strong></em> &emsp;&emsp;&emsp;&emsp;
+<em><strong>"Take a sad song and make it better"</strong></em> &emsp;&emsp;&emsp;&emsp;
 wav:&emsp;
 <audio controls>
-				<source src="audios\noisy\source\5.wav" type="audio/mpeg">
+				<source src="audios\noisy\source\1.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio>
 </td>
@@ -436,37 +438,36 @@ wav:&emsp;
 <tr class="odd">
 <td>6</td>
 <td><audio controls>
-				<source src="audios\noisy\acous\6.wav" type="audio/mpeg">
+				<source src="audios\noisy\acous\3.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\noisy\crepe\6.wav" type="audio/mpeg">
+				<source src="audios\noisy\crepe\3.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\noisy\separated\6.wav" type="audio/mpeg">
+				<source src="audios\noisy\separated\3.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\noisy\separated_crepe\6.wav" type="audio/mpeg">
+				<source src="audios\noisy\separated_crepe\3.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 <td><audio controls>
-				<source src="audios\noisy\proposed\6.wav" type="audio/mpeg">
+				<source src="audios\noisy\proposed\3.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio></td>
 </tr>
 <tr class="even">
 <td colspan="6">Source 6&emsp;transcript :
-<em><strong>"活在我飞扬的青(春)"</strong></em> &emsp;&emsp;&emsp;&emsp;
+<em><strong>"纵容着 任性的 随意的 放肆的"</strong></em> &emsp;&emsp;&emsp;&emsp;
 wav:&emsp;
 <audio controls>
-				<source src="audios\noisy\source\6.wav" type="audio/mpeg">
+				<source src="audios\noisy\source\3.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
 			</audio>
 </td>
 </tr>
-
 </tbody>
 </table>
 
