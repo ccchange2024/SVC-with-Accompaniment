@@ -164,9 +164,9 @@ wav:&emsp;
 </td>
 </tr>
 
-
+<!-- 
 <tr class="odd">
-<!-- <td>3</td>
+<td>3</td>
 <td><audio controls>
 				<source src="audios\clean\acous\0.wav" type="audio/mpeg">
 				Your browser does not support this audio format.
